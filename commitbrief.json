@@ -1,0 +1,22 @@
+{
+    "version": "0.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/CommitBrief/commitbrief/releases/download/v0.4.0/commitbrief_0.4.0_windows_x86_64.zip",
+            "bin": [
+                "commitbrief.exe"
+            ],
+            "hash": "e62a9831ea5cdd923027888893d7bdc43b5c9d7cfbc5ba5c96697e834c3fc3e4"
+        },
+        "arm64": {
+            "url": "https://github.com/CommitBrief/commitbrief/releases/download/v0.4.0/commitbrief_0.4.0_windows_arm64.zip",
+            "bin": [
+                "commitbrief.exe"
+            ],
+            "hash": "aedc67974112cef34ef0462aea0d98a12b5f24505273520267bede2345f6b5da"
+        }
+    },
+    "homepage": "https://github.com/CommitBrief/commitbrief",
+    "license": "GPL-3.0-or-later",
+    "description": "LLM-powered local code review CLI"
+}
