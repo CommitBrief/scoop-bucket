@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CommitBrief/commitbrief/releases/download/v1.0.0/commitbrief_1.0.0_windows_x86_64.zip",
+            "url": "https://github.com/CommitBrief/commitbrief/releases/download/v1.1.0/commitbrief_1.1.0_windows_x86_64.zip",
             "bin": [
                 "commitbrief.exe"
             ],
-            "hash": "9c41ab446c256ebca4af27a4ef8d026945189a1597b5bd038e4779b31753f368"
+            "hash": "5d17c60b2b78959afe9d14d3781cc6f3439442236e4bfac624b2a226129bcd61"
         },
         "arm64": {
-            "url": "https://github.com/CommitBrief/commitbrief/releases/download/v1.0.0/commitbrief_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/CommitBrief/commitbrief/releases/download/v1.1.0/commitbrief_1.1.0_windows_arm64.zip",
             "bin": [
                 "commitbrief.exe"
             ],
-            "hash": "91373955418f46b0b0ed3834f27ba54bff5ca22ebc0a2a3fc3f55ef4ca968379"
+            "hash": "7008632e46a8bf9487f11e759a2a77d3698af1c2dd953058b66be19f6fb32bf0"
         }
     },
     "homepage": "https://github.com/CommitBrief/commitbrief",
